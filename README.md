@@ -25,12 +25,17 @@ Cooling process 2:
 
 
 ## Refs:
-https://arxiv.org/abs/1411.7188
-https://github.com/micromagnetics/70LinesOfNumpy
-https://arxiv.org/abs/1406.7635
-https://github.com/mumax/3
-http://math.nist.gov/oommf/doc/userguide11b2/userguide/vectorfieldformat.html
-https://arxiv.org/abs/1612.06622
+> https://arxiv.org/abs/1411.7188
+
+> https://github.com/micromagnetics/70LinesOfNumpy
+
+> https://arxiv.org/abs/1406.7635
+
+> https://github.com/mumax/3
+
+> http://math.nist.gov/oommf/doc/userguide11b2/userguide/vectorfieldformat.html
+
+> https://arxiv.org/abs/1612.06622
 
 ## PS:
 For some reasons, the code uploaded here is not complete. For more information, please contact me.
