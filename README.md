@@ -13,13 +13,13 @@ This is a GPU-accelerated micromagnetic simulation program to study the static b
 
 ## Demo
 
-![demo](Screenshots/1.png)
+![demo](Demo/1.png)
 
-![demo](Screenshots/1.gif)
+![demo](Demo/1.gif)
 
-![demo](Screenshots/2.png)
+![demo](Demo/2.png)
 
-![demo](Screenshots/2.gif)
+![demo](Demo/2.gif)
 
 
 ## Refs:
