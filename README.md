@@ -13,13 +13,15 @@ This is a GPU-accelerated micromagnetic simulation program to study the static b
 
 ## Demo
 
-![demo](Demo/1.png)
+Final state 1:
+<img src="Demo/1.png" width="200">
+Cooling process 1:
+<img src="Demo/1.gif" >
 
-![demo](Demo/1.gif)
-
-![demo](Demo/2.png)
-
-![demo](Demo/2.gif)
+Final state 2:
+<img src="Demo/2.png" width="200">
+Cooling process 2:
+<img src="Demo/2.gif" >
 
 
 ## Refs:
