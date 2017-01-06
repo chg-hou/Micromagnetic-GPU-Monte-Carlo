@@ -38,7 +38,7 @@ Cooling process 2:
 > https://arxiv.org/abs/1612.06622
 
 ## PS:
-For some reasons, the code uploaded here is not complete. For more information, please contact me.
+Parts of the codes are uploaded here. For more information, please contact me.
 
 ## Example input configuration file:
 ```ini
